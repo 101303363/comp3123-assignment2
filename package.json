@@ -19,9 +19,8 @@
   "homepage": "https://github.com/101303363/comp3123-assignment2#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^6.7.2"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.20"
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20",
+    "save-dev": "^0.0.1-security"
   }
 }
